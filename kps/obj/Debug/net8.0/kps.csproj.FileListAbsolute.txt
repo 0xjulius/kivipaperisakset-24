@@ -1,0 +1,14 @@
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\obj\Debug\net8.0\kps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\obj\Debug\net8.0\kps.AssemblyInfoInputs.cache
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\obj\Debug\net8.0\kps.AssemblyInfo.cs
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\obj\Debug\net8.0\kps.csproj.CoreCompileInputs.cache
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\bin\Debug\net8.0\kps.exe
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\bin\Debug\net8.0\kps.deps.json
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\bin\Debug\net8.0\kps.runtimeconfig.json
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\bin\Debug\net8.0\kps.dll
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\bin\Debug\net8.0\kps.pdb
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\obj\Debug\net8.0\kps.dll
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\obj\Debug\net8.0\refint\kps.dll
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\obj\Debug\net8.0\kps.pdb
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\obj\Debug\net8.0\kps.genruntimeconfig.cache
+C:\Users\JuLiu\Documents\GitHub\kivipaperisakset2\kps\obj\Debug\net8.0\ref\kps.dll
